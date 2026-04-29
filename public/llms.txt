@@ -1,0 +1,51 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+סטודיו 242 מעצב חללים עסקיים באמצעות אמנות מוזיאלית, מיסגור פרימיום והתקנה מקצועית. מלובי ועד חדר ישיבות — כל קיר הוא הזדמנות. גלו את החוויה המלאה.
+
+### עסקים
+https://example.com/business-solution
+מרפאות, מסעדות, משרדים ולובי — סטודיו 242 מציע אבחון ויזואלי בשטח, קיורציה מותאמת ועיצוב פנים עסקי עם אמנות שהופך כל סביבה למותג חי ופועם.
+
+### פרויקטים
+https://example.com/projects
+גלריית הפרויקטים של סטודיו 242 — התקנות אמנות מקצועיות לעסקים שהפכו חללים רגילים לסביבות השראה. ראו כיצד אמנות לחללים עסקיים יוצרת רושם שנשאר.
+
+### המלאכה
+https://example.com/the-craft
+הדפסה ברמה מוזיאלית, מיסגור יד ואסתטיקת וואבי-סאבי — סטודיו 242 חושף את הטכנולוגיה והפילוסופיה שהופכות חומרים גולמיים ליצירות שמעצימות עסקים. כך נוצרת מלאכה שמחזיקה לנצח.
+
+### צור קשר
+https://example.com/contact
+מוכנים לשנות את הסביבה העסקית שלכם? צרו קשר עם סטודיו 242 לאבחון ויזואלי בשטח ותחילת תהליך עיצוב פנים עסקי עם אמנות שמותאם בדיוק לצרכי המותג שלכם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
