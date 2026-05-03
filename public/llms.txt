@@ -1,51 +1,64 @@
-# Business — Generative Engine Optimization Map
+# סטודיו 242 — Generative Engine Optimization Map
+
+> Studio 242 is a premium art curation, custom framing, and installation studio positioned as a one-stop-shop for businesses seeking to transform their spaces into visually powerful environments. The brand blends the sensibility of a fine art expert with the reliability of a professional service provider, drawing on Wabi-Sabi aesthetics — celebrating raw materials, texture, and timeless beauty. Their unique value proposition lies in offering museum-grade printing and framing technology delivered directly to corporate offices, lobbies, clinics, and restaurants, turning walls into marketing and inspirational tools. The studio emphasizes a full-service workflow: on-site visual diagnosis, tailored curation, premium framing, and expert installation.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://studio242.zappy5.app
 סטודיו 242 מעצב חללים עסקיים באמצעות אמנות מוזיאלית, מיסגור פרימיום והתקנה מקצועית. מלובי ועד חדר ישיבות — כל קיר הוא הזדמנות. גלו את החוויה המלאה.
 
 ### עסקים
-https://example.com/business-solution
+https://studio242.zappy5.app/business-solution
 מרפאות, מסעדות, משרדים ולובי — סטודיו 242 מציע אבחון ויזואלי בשטח, קיורציה מותאמת ועיצוב פנים עסקי עם אמנות שהופך כל סביבה למותג חי ופועם.
 
 ### פרויקטים
-https://example.com/projects
+https://studio242.zappy5.app/projects
 גלריית הפרויקטים של סטודיו 242 — התקנות אמנות מקצועיות לעסקים שהפכו חללים רגילים לסביבות השראה. ראו כיצד אמנות לחללים עסקיים יוצרת רושם שנשאר.
 
 ### המלאכה
-https://example.com/the-craft
+https://studio242.zappy5.app/the-craft
 הדפסה ברמה מוזיאלית, מיסגור יד ואסתטיקת וואבי-סאבי — סטודיו 242 חושף את הטכנולוגיה והפילוסופיה שהופכות חומרים גולמיים ליצירות שמעצימות עסקים. כך נוצרת מלאכה שמחזיקה לנצח.
 
 ### צור קשר
-https://example.com/contact
+https://studio242.zappy5.app/contact
 מוכנים לשנות את הסביבה העסקית שלכם? צרו קשר עם סטודיו 242 לאבחון ויזואלי בשטח ותחילת תהליך עיצוב פנים עסקי עם אמנות שמותאם בדיוק לצרכי המותג שלכם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://studio242.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://studio242.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://studio242.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About סטודיו 242
+Studio 242 is a premium art curation, custom framing, and installation studio positioned as a one-stop-shop for businesses seeking to transform their spaces into visually powerful environments. The brand blends the sensibility of a fine art expert with the reliability of a professional service provider, drawing on Wabi-Sabi aesthetics — celebrating raw materials, texture, and timeless beauty. Their unique value proposition lies in offering museum-grade printing and framing technology delivered directly to corporate offices, lobbies, clinics, and restaurants, turning walls into marketing and inspirational tools. The studio emphasizes a full-service workflow: on-site visual diagnosis, tailored curation, premium framing, and expert installation.
+
+## Target Audience
+- בעלי עסקים, אדריכלים, מעצבי פנים, בעלי משרדים, קליניקות ומסעדות
+- בעלי עסקים
+- מעצבי פנים
+- אדריכלים
+
+## Industry
+אמנות ועיצוב פנים עסקי
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://studio242.zappy5.app/sitemap.xml
+- **Robots.txt**: https://studio242.zappy5.app/robots.txt
