@@ -47,7 +47,7 @@ Information about WCAG compliance and accessibility features.
 - Email: ofirmsika@gmail.com
 - Phone: 052-5859828
 - Phone (tel): tel:0525859828
-- Address: mishmarot
+- Address: מ.א. גליל עליון, 1230500
 
 ### Contact form
 - URL: https://studio-242.com/contact
