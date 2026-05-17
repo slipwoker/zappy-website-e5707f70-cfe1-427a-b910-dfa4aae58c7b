@@ -223,6 +223,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="פרויקטים שמוכיחים שקירות מוכרים — סטודיו 242">
     <meta name="twitter:description" content="גלריית הפרויקטים של סטודיו 242 — התקנות אמנות מקצועיות לעסקים שהפכו חללים רגילים לסביבות השראה. ראו כיצד אמנות לחללים עסקיים יוצרת רושם שנשאר.">
+    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"LocalBusiness","@id":"https://studio-242.com#organization","name":"סטודיו 242","url":"https://studio-242.com","description":"Studio 242 is a premium art curation, custom framing, and installation studio positioned as a one-stop-shop for businesses seeking to transform their spaces into visually powerful environments. The brand blends the sensibility of a fine art expert with the reliability of a professional service provider, drawing on Wabi-Sabi aesthetics — celebrating raw materials, texture, and timeless beauty. Their unique value proposition lies in offering museum-grade printing and framing technology delivered directly to corporate offices, lobbies, clinics, and restaurants, turning walls into marketing and inspirational tools. The studio emphasizes a full-service workflow: on-site visual diagnosis, tailored curation, premium framing, and expert installation.","address":{"@type":"PostalAddress","streetAddress":"mishmarot"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","email":"ofirmsika@gmail.com","telephone":"052-5859828"}]},{"@type":"WebSite","@id":"https://studio-242.com#website","url":"https://studio-242.com","name":"סטודיו 242","publisher":{"@id":"https://studio-242.com#organization"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://studio-242.com"},{"@type":"ListItem","position":2,"name":"Projects","item":"https://studio-242.com/projects"}]}]}</script>
     <meta property="og:type" content="website">
   <meta property="og:locale" content="he_IL">
   
@@ -298,11 +299,37 @@
     </style>
 
     <style id="zappy-widget-visibility">
-      #mic-access-tool-general-button, .mic-access-tool-general-button,
-      #mic-init-access-tool .mic-access-tool-general-button, #mic-init-access-tool #mic-access-tool-general-button,
-      ._access-icon, #mic-access-tool-box, .mic-access-tool-box,
-      #mic-init-access-tool #mic-access-tool-box, div[id*="mic-access-tool-box"], ._access-menu {
-        display: none !important; visibility: hidden !important; opacity: 0 !important; pointer-events: none !important;
+      html[dir="rtl"] .whatsapp-float { right: 20px !important; left: auto !important; }
+      html[dir="ltr"] .whatsapp-float, html:not([dir]) .whatsapp-float { left: 20px !important; right: auto !important; }
+      html[dir="rtl"] #mic-access-tool-general-button, html[dir="rtl"] .mic-access-tool-general-button,
+      html[dir="rtl"] #mic-init-access-tool .mic-access-tool-general-button,
+      html[dir="rtl"] #mic-init-access-tool #mic-access-tool-general-button,
+      html[dir="rtl"] ._access-icon { left: 20px !important; right: auto !important; }
+      html[dir="ltr"] #mic-access-tool-general-button, html[dir="ltr"] .mic-access-tool-general-button,
+      html[dir="ltr"] #mic-init-access-tool .mic-access-tool-general-button,
+      html[dir="ltr"] #mic-init-access-tool #mic-access-tool-general-button,
+      html[dir="ltr"] ._access-icon,
+      html:not([dir]) #mic-access-tool-general-button, html:not([dir]) .mic-access-tool-general-button,
+      html:not([dir]) #mic-init-access-tool .mic-access-tool-general-button,
+      html:not([dir]) #mic-init-access-tool #mic-access-tool-general-button,
+      html:not([dir]) ._access-icon { right: 20px !important; left: auto !important; }
+      @media (max-width: 768px) { .whatsapp-float { display: flex !important; } }
+      @media (min-width: 769px) { .whatsapp-float { display: flex !important; } }
+      @media (max-width: 768px) {
+        #mic-access-tool-general-button, .mic-access-tool-general-button,
+        #mic-init-access-tool .mic-access-tool-general-button, #mic-init-access-tool #mic-access-tool-general-button,
+        ._access-icon, #mic-access-tool-box, .mic-access-tool-box,
+        #mic-init-access-tool #mic-access-tool-box, div[id*="mic-access-tool-box"], ._access-menu {
+          display: none !important; visibility: hidden !important; opacity: 0 !important; pointer-events: none !important;
+        }
+      }
+      @media (min-width: 769px) {
+        #mic-access-tool-general-button, .mic-access-tool-general-button,
+        #mic-init-access-tool .mic-access-tool-general-button, #mic-init-access-tool #mic-access-tool-general-button,
+        ._access-icon, #mic-access-tool-box, .mic-access-tool-box,
+        #mic-init-access-tool #mic-access-tool-box, div[id*="mic-access-tool-box"], ._access-menu {
+          display: none !important; visibility: hidden !important; opacity: 0 !important; pointer-events: none !important;
+        }
       }
     </style>
 </head>
@@ -1171,9 +1198,9 @@
           </div>
           <p class="footer-tagline">עיצוב פנים עסקי ואמנות מרחבית — יוצרים סביבות שמעוררות השראה, מחזקות מותגים ומשנות חוויות.</p>
           <div class="footer-social">
-            <a href="#" aria-label="Facebook" style="display:none !important;"><i class="fab fa-facebook-f"></i></a>
-            <a href="#" aria-label="Instagram" style="display:none !important;"><i class="fab fa-instagram"></i></a>
-            <a href="#" aria-label="WhatsApp" style="display:none !important;"><i class="fab fa-whatsapp"></i></a>
+            <a href="https://facebook.com/studio242" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
+            <a href="https://instagram.com/ofir.msika" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+            <a href="https://wa.me/972525859828" aria-label="WhatsApp"><i class="fab fa-whatsapp"></i></a>
           </div>
         </div>
 
@@ -1236,7 +1263,7 @@
   </div>
 </footer>
   
-  <a href="https://wa.me/[whatsapp_handle]" class="whatsapp-float" aria-label="WhatsApp">
+  <a href="https://wa.me/972525859828" class="whatsapp-float" aria-label="WhatsApp">
     <i class="fab fa-whatsapp"></i>
   </a>
   

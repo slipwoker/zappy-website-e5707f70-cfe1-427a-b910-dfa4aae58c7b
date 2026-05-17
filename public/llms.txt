@@ -7,38 +7,59 @@
 ## Pages
 
 ### בית
-https://studio242.zappy5.app
+https://studio-242.com
 סטודיו 242 מעצב חללים עסקיים באמצעות אמנות מוזיאלית, מיסגור פרימיום והתקנה מקצועית. מלובי ועד חדר ישיבות — כל קיר הוא הזדמנות. גלו את החוויה המלאה.
 
 ### עסקים
-https://studio242.zappy5.app/business-solution
+https://studio-242.com/business-solution
 מרפאות, מסעדות, משרדים ולובי — סטודיו 242 מציע אבחון ויזואלי בשטח, קיורציה מותאמת ועיצוב פנים עסקי עם אמנות שהופך כל סביבה למותג חי ופועם.
 
 ### פרויקטים
-https://studio242.zappy5.app/projects
+https://studio-242.com/projects
 גלריית הפרויקטים של סטודיו 242 — התקנות אמנות מקצועיות לעסקים שהפכו חללים רגילים לסביבות השראה. ראו כיצד אמנות לחללים עסקיים יוצרת רושם שנשאר.
 
 ### המלאכה
-https://studio242.zappy5.app/the-craft
+https://studio-242.com/the-craft
 הדפסה ברמה מוזיאלית, מיסגור יד ואסתטיקת וואבי-סאבי — סטודיו 242 חושף את הטכנולוגיה והפילוסופיה שהופכות חומרים גולמיים ליצירות שמעצימות עסקים. כך נוצרת מלאכה שמחזיקה לנצח.
 
 ### צור קשר
-https://studio242.zappy5.app/contact
+https://studio-242.com/contact
 מוכנים לשנות את הסביבה העסקית שלכם? צרו קשר עם סטודיו 242 לאבחון ויזואלי בשטח ותחילת תהליך עיצוב פנים עסקי עם אמנות שמותאם בדיוק לצרכי המותג שלכם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://studio242.zappy5.app/privacy
+https://studio-242.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://studio242.zappy5.app/terms
+https://studio-242.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://studio242.zappy5.app/accessibility
+https://studio-242.com/accessibility
 Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- Email: ofirmsika@gmail.com
+- Phone: 052-5859828
+- Phone (tel): tel:0525859828
+- Address: mishmarot
+
+### Contact form
+- URL: https://studio-242.com/contact
+- Endpoint: https://studio-242.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
 
 ---
 
@@ -58,7 +79,8 @@ Studio 242 is a premium art curation, custom framing, and installation studio po
 
 ---
 
-# Additional Resources
+# Machine-readable feeds
 
-- **Sitemap**: https://studio242.zappy5.app/sitemap.xml
-- **Robots.txt**: https://studio242.zappy5.app/robots.txt
+- Sitemap (XML): https://studio-242.com/sitemap.xml
+- Robots: https://studio-242.com/robots.txt
+- Flattened page text (for LLMs): https://studio-242.com/llms-full.txt
